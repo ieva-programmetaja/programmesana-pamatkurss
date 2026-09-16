@@ -1,1 +1,1 @@
-print("Diena ir slikta")
+print("Charlie KIRK")
