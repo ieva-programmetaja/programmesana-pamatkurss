@@ -10,6 +10,4 @@ Autors: **Ieva Kreņģele**
 - Shift+Enter
 ## Licence
 Vispopulārākā atvērtā pirmkoda licence.
-
-
-
+**Kartupelis**
