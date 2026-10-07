@@ -1,7 +1,9 @@
 ieva-programmetaja 
 Secinājums: burts f paliek sarkans
 Secinājums: lai zinātu, kas kodā ir mainīts
-<<<<<<< HEAD
+Secinājums: kods ne vienmēr saprot visus parametrus (šajā gadījumā "un")
+Secinājums: .md fails nav parasts teksta fails, jo tajā tiek izmantots Markdown formatējums, piemēram, virsraksti, saraksti un saites
+
 # Programmēšana - pamatkurss
 Autors: **Ieva Kreņģele**
 ## Kā palaist
@@ -9,7 +11,4 @@ Autors: **Ieva Kreņģele**
 - Shift+Enter
 ## Licence
 Vispopulārākā atvērtā pirmkoda licence.
-=======
-Secinājums: kods ne vienmēr saprot visus parametrus (šajā gadījumā "un")
-
->>>>>>> 5a1faf4085d7fcaab744415b1657ac900b229cad
+**Kartupelis**
