@@ -1,6 +1,6 @@
 **Pārbaudes darbs Ieva Kreņģele**
 
-## Palaišana
+ ## Palaišana
 
 ## Ergonomika
 - 
